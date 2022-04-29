@@ -1,8 +1,8 @@
-<h1> I'm a Fur Mama & Developer 💁🏽‍♀️ 💻 </h1>
+<h1> I'm a Fur Mama & A Software Developer 💁🏽‍♀️ 💻 </h1>
 
 
 
-My name is Asika and I am a software engineer who learned her skillset from UC Berekely. 
+My name is Asika and I am a software developer who learned her skillset from UC Berekely. 
 
 - 👓 I’m currently working on bettering my software engineering skills.
 - 🌱 I’m currently learning Full Stack Development
