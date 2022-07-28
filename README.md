@@ -1,4 +1,4 @@
-<h1> I'm a Fur Mama & A Software Developer 💁🏽‍♀️ 💻 </h1>
+<h1> Software Developer & Logistics Manager 💁🏽‍♀️ 💻 </h1>
 
 
 
