@@ -5,9 +5,6 @@
 My name is Asika and I am a software developer who learned her skillset from UC Berekely. 
 
 - 👓 I’m currently working on bettering my software engineering skills.
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with JavaScript
 - 🐶 I am a fur mom to the best pups in the world. Severus(Sebu) & Nala 💘
 - 😄 Pronouns: She/Her
 - 🎶 Fun Fact: I love music and astrology! 🪬
