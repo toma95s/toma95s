@@ -1,4 +1,4 @@
-<h1> Software Developer & Logistics Manager 💁🏽‍♀️ 💻 </h1>
+<h1> Software Developer & Data Analyst 💁🏽‍♀️ 💻 </h1>
 
 
 
@@ -7,7 +7,7 @@ My name is Asika and I am a software developer who learned her skillset from UC 
 - 👓 I’m currently working on bettering my software engineering skills.
 - 🐶 I am a fur mom to the best pups in the world. Severus(Sebu) & Nala 💘
 - 😄 Pronouns: She/Her
-- 🎶 Fun Fact: I love music and astrology! 🪬
+- 🎶 Fun Fact: I love music and long walks! 🪬
 
 
 
